@@ -17,7 +17,7 @@
 <body>
  <nav class="navbar p-4 shadow-md">
  <div class="container mx-auto flex justify-between items-center">
- <div class="text-2xl text-primary">Black Alliance ♚</div>
+ <div class="text-2xl text-primary">Black Alliance</div>
  <div class="hidden lg:flex navbar-menu">
  <a href="/" class="hover:text-primary">Home</a>
  <a href="/team" class="hover:text-primary">Team</a>
